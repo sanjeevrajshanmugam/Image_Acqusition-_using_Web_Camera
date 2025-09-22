@@ -117,9 +117,6 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
-### Developed By: Hari Priya M
-### Register No: 212224240047
-
 
 ## Output
 
